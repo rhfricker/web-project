@@ -1,0 +1,12 @@
+header {
+  text-align: center;
+  background: url"(http://whitemereprimary.org/wp-content/uploads/2017/10/box-diversity.png)";
+  background-size: cover;
+}
+ul{
+  padding: 10px;
+}
+li{
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
